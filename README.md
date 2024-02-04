@@ -1,1 +1,3 @@
 # lab-busca-cognitiva-azure
+
+Embora esse tenha sido o laboratório mais complexo até o momento por causa do passo a passo cuidadoso e cheio de detalhes, a busca cognitiva se mostrou claramente um excelente modo de capturar de forma eficaz e automatizada as reviews dos clientes e organizá-las de forma útil. No exemplo disponibilizado pela própria microsoft, o modelo foi capaz de separar 162 palavras chaves das 9 avaliações que são disponibilizadas em arquivos word e é capaz de separar as avaliações por meio de tags de localização, sentimento do cliente e etc, o que pode ser de extrema utilidade para organização e melhoria do estabelecimento.
